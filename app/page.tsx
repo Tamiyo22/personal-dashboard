@@ -1,9 +1,31 @@
 "use client";
+import Sidebar from "@/components/Sidebar";
+
 
 export default function Home() {
   return (
-    <main className="text-6xl">
-     <h1> Test</h1>
-    </main>
+    <div>
+    <main className="flex min-h-screen mx-auto">
+    {/* Sidebar */}
+    <Sidebar />
+
+       
+
+        {/* feed */}
+
+         {/* widgets */}
+
+
+         {/* Modal */}
+         </main>
+         </div>
+
+
+
+
+
+   
+
+   
   );
 }
