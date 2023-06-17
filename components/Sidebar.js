@@ -11,6 +11,7 @@ import {
     UserIcon,
     SunIcon
   } from "@heroicons/react/outline";
+  import Image from "next/image";
   
 
 export default function Sidebar() {
@@ -46,6 +47,7 @@ export default function Sidebar() {
  <div className="hoverEffect text-gray-700 flex items-center justify-center xl:justify-start mt-auto">
       
         {/* Profile photo goes here */}
+        <Image width="50" height="50" src = "https://avatars.githubusercontent.com/u/30645979?v=4"></Image>
         <h4 className="font-bold">
             Melissa
         </h4>
