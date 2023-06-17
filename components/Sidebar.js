@@ -39,7 +39,18 @@ export default function Sidebar() {
         {/*Button */}
         <button>Tweet</button>
 
-        {/* Mini profile */}
+ {/* Mini profile */}
+      <div className="">
+       
+        {/* Profile photo goes here */}
+        <h4>
+            Melissa
+        </h4>
+        <p>@Melissa</p>
+
+      <DotsHorizontalIcon className="h-5"></DotsHorizontalIcon>
+        </div>
+
         
 
 
