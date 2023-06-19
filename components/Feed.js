@@ -8,7 +8,7 @@ function Feed() {
       id:"1",
       name: "Melissa Hargis",
       username:"syzygy",
-      userImg:"https://avatars.githubusercontent.com/u/30645979?v=4",
+      userImg:"",
       img:"https://unsplash.com/photos/xkaO0pO-GMU",
       text:" Wow! So beautiful.",
       timestamp:" 2 hours ago"

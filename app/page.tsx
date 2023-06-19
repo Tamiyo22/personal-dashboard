@@ -4,7 +4,13 @@ import Feed from "@/components/Feed";
 import Widgets from "@/components/Widgets";
 
 
+
+
 export default function Home() {
+
+ 
+    
+  
   return (
     <div>
     <main className="flex min-h-screen mx-auto">
@@ -21,6 +27,7 @@ export default function Home() {
 
 
          {/* Modal */}
+
          </main>
          </div>
 
@@ -33,3 +40,6 @@ export default function Home() {
    
   );
 }
+
+//ad48dcbfedaf4d4ca4a2cc968850ab4e
+
