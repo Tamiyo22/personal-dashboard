@@ -3,7 +3,6 @@ import News from "./News";
 import { useState } from "react";
 
 export default function Widgets() {
-    const [articleNum, setArticleNum] = useState(3);
     
   return (
     <div className="xl:w-[600px] hidden lg:inline ml-8 space-y-5">
