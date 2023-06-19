@@ -2,7 +2,7 @@ import { SearchIcon } from "@heroicons/react/outline";
 import News from "./News";
 import { useState } from "react";
 
-export default function Widgets({title,description,url,urlToImage}) {
+export default function Widgets() {
     const [articleNum, setArticleNum] = useState(3);
     
   return (

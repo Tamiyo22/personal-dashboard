@@ -7,9 +7,6 @@ import Widgets from "@/components/Widgets";
 
 
 export default function Home() {
-
- 
-    
   
   return (
     <div>
@@ -31,15 +28,8 @@ export default function Home() {
          </main>
          </div>
 
-
-
-
-
-   
-
    
   );
 }
 
-//ad48dcbfedaf4d4ca4a2cc968850ab4e
 
